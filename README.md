@@ -7,7 +7,7 @@
 
 - 💬 My next step will be **Docker, SASS, Vuetify**
 
-- 📫 How to reach me **cresixu@gmail.com**
+- 📫 How to reach me **krystian.wawruch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

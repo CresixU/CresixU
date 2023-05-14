@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core Web API and Vue.js**
 
-- 💬 My next step will be **Docker, SASS, Vuetify**
+- 💬 Next I will learn **Docker, SASS, Vuetify**
 
 - 📫 How to reach me **krystian.wawruch@gmail.com**
 

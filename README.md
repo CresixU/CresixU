@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Library Appliaction](https://github.com/kwawruch/LibraryWebApp/)
 
-- 🌱 I’m currently learning **ASP.NET Core Web API and Vue.js**
+- 🌱 I’m currently learning **ASP.NET Core Web API and Vue.js+Vuetify**
 
-- 💬 Next I will learn **Docker, SASS, Vuetify**
+- 💬 Next I will learn **Docker, SASS**
 
 - 📫 How to reach me **krystian.wawruch@gmail.com**
 

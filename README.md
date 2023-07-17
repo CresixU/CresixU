@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on new version of NitroClub's website (Frontend)
 
-- 🌱 I’m currently learning **ASP.NET Core Web API and Vue.js+Vuetify**
+- 🌱 I’m currently learning **ASP.NET Core Web API and Vue.js**
 
 - 💬 Next I will learn **Docker, SASS**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on new version of NitroClub's website (Frontend)
+- 🔭 I’m currently working on Library Application in my free time
 
 - 🌱 I’m currently learning **ASP.NET Core Web API and Vue.js**
 

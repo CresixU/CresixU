@@ -20,7 +20,7 @@
 <p>Git, Postman, Figma, Gimp</p>
 <br>
 <h4>Unity</h4>
-<p>The other thing is I'm working with team on <b>Mobile Game</b> named <b>Geoblast</b> written in <b>C# using Unity Engine</b><br>You can check out our result on the <a href="https://play.google.com/store/apps/details?id=com.KoderTeam.GeoBlast">Google Play Here</a></p>
+<p>The other thing is I'm working with team on <b>Mobile Game</b> named <b>Geo-blast</b> written in <b>C# using Unity Engine</b><br>You can check out our result on the <a href="https://play.google.com/store/apps/details?id=com.KoderTeam.GeoBlast">Google Play Here</a></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cresixu&show_icons=true&theme=dark&title_color=0ecc00&text_color=dedede&locale=en" alt="kwawruch"/></p>
 

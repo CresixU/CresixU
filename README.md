@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Backend</h4>
-<p>C#, ASP.NET Core Web API <i>(EntityFramework, LINQ, AutoMapper, xUnit)</i>,<br><i>SQL (PostgreSQL, MySQL)</i></p>
+<p>C#, ASP.NET Core Web API <i>(EntityFramework, LINQ, AutoMapper, xUnit, MediatR, FluentValidation)</i>,<br><i>SQL (PostgreSQL, MySQL)</i></p>
 <h4>Frontend</h4>
 <p>JavaScript, jQuery, Vue3.js <i>(Options API, VueRouter, Vuetify)</i>,<br>CSS <i>(SCSS, Bootstrap, Tailwind)</i></p>
 <h4>Tools</h4>

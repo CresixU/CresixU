@@ -7,9 +7,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Backend</h4>
-<p>C#, ASP.NET Core Web API <i>(EntityFramework, LINQ, AutoMapper, xUnit, MediatR, FluentValidation)</i>,<br><i>SQL (PostgreSQL, MySQL)</i></p>
+<p>Good: C#, ASP.NET Core Web API <i>(EntityFramework, LINQ, AutoMapper, xUnit, MediatR, FluentValidation)</i>,<br><i>SQL (PostgreSQL, MySQL, MsSQL)</i></p>
+<p>A bit: Node.js</p>
 <h4>Frontend</h4>
 <p>JavaScript, jQuery, Vue3.js <i>(Options API, VueRouter, Vuetify)</i>,<br>CSS <i>(SCSS, Bootstrap, Tailwind)</i></p>
+<p>A bit: TypeScript, React.js</p>
 <h4>Tools</h4>
 <p>Git, Postman, Figma, Gimp</p>
 
